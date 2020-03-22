@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /css/
+Disallow: /files/
+Disallow: /js/
+Disallow: /theme/
+Disallow: 404.html
+
+Sitemap: http://theyellow.stream/sitemap.xml
